@@ -1,0 +1,2 @@
+pwd //print working directory
+cd ~ //ÇÐ»»µ½Ö÷Ä¿Â¼
