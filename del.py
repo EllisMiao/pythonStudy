@@ -14,6 +14,6 @@ def del_file(path):
 				del_file(itempath)
 
 if __name__ == '__main__':
-	dirname = 'E:\\python'
+	dirname = 'E:\python'
 	del_file(dirname)
 	
