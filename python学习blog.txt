@@ -3,3 +3,5 @@ http://www.cnblogs.com/harrychinese/archive/2012/11/13/my_web_dev_roadmap.html
 https://learnpythonthehardway.org/book/
 
 http://python.jobbole.com/85125/
+
+http://python.jobbole.com/87320/ 抓取百科的地址
